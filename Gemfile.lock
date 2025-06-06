@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    openproject-my_new_plugin (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  openproject-my_new_plugin!
+
+BUNDLED WITH
+   2.6.5
